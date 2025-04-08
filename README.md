@@ -1,3 +1,2 @@
 # WebClass
-This is a MD format file
-This is my second change
+This is my change for the readMe file
