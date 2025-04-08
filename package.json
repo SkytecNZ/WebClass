@@ -1,0 +1,19 @@
+{
+  "name": "webclass-1",
+  "version": "1.0.0",
+  "description": "This is class work for MCSD51",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkytecNZ/WebClass.git"
+  },
+  "author": "Nilan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkytecNZ/WebClass/issues"
+  },
+  "homepage": "https://github.com/SkytecNZ/WebClass#readme"
+}
