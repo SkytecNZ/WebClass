@@ -1,6 +1,7 @@
 console.log("Application is starting");
  
 const express = require('express')
+const ejs = require('ejs')
 const app = express()
 const port = 3000
  
